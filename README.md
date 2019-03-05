@@ -14,5 +14,5 @@ docker run -p 1080:1080 kawabatas/delegated
 
 ## Check
 ```
-curl -x socks5h://localhost:1080 ifconfig.ovh
+curl -x socks5h://user:pass@localhost:1080 ifconfig.ovh
 ```
