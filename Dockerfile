@@ -1,7 +1,3 @@
-#
-# Dockerfile for delegated
-#
-
 FROM centos:7
 MAINTAINER kawabatas
 
